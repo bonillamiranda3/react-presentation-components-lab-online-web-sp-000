@@ -21,4 +21,4 @@ class SimpleComponent extends Component {
   }
 }
 
-export default impleComponent;
+export default SimpleComponent;
